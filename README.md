@@ -21,8 +21,8 @@ Atualmente aprofundando meus conhecimentos em:
 - 🍃 **Spring Boot** — Criação de APIs RESTful, camadas, HATEOAS, validações, serviços e documentação  
 - 🛢️ **JPA / Hibernate** — Modelagem, relacionamentos, consultas e mapeamentos  
 - 🐳 **Docker** — Contêineres para desenvolvimento de APIs  
-- 🧪 **Testes** — JUnit e Mockito  
-
+- 🧩 **Git** — Praticando versionamento e fluxo de trabalho colaborativo.
+- ✨ **JavaFX** — Desenvolvendo interfaces gráficas modernas com Java.
 
 
 ## 🧰 Tech Stack
