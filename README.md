@@ -26,6 +26,7 @@ Atualmente aprofundando meus conhecimentos em:
 
 
 ## 🧰 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,6 +35,7 @@ Atualmente aprofundando meus conhecimentos em:
 ![Postman](https://img.shields.io/badge/postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
 
 
 
