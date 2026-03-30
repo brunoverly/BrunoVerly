@@ -43,7 +43,7 @@ Atualmente aprofundando meus conhecimentos em:
 ## 📊 Estatísticas do GitHub
 <div align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoVerly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&bg_color=00000000"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/BrunoVerly?theme=dracula&cardType=level"
     height="150"
     alt="stats graph"
   />
@@ -54,13 +54,6 @@ Atualmente aprofundando meus conhecimentos em:
     alt="languages graph"
   />
 </div>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BrunoVerly&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoVerly/BrunoVerly/output/pacman-contribution-graph-dark.svg">
