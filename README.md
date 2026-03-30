@@ -47,13 +47,13 @@ Atualmente aprofundando meus conhecimentos em:
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoVerly&theme=dracula"
     height="150"
-    alt="stats graph"
+    alt="stats"
   />
   <span style="display:inline-block; width: 14px;"></span>
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoVerly&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoVerly&theme=dracula"
     height="150"
-    alt="languages graph"
+    alt="languages"
   />
 </div>
 
