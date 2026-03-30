@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Bruno
 
 Bem-vindo(a) ao meu perfil no GitHub!  
-Sou estudante de **Sistemas da Informação**, apaixonado por tecnologia e atualmente focado em construir uma base sólida para atuar como **Desenvolvedor Backend** usando Java.
+Sou estudante de **Sistemas da Informação**, focado em construir uma base sólida para atuar como **Desenvolvedor Backend** usando Java.
 
 
 
@@ -22,7 +22,6 @@ Atualmente aprofundando meus conhecimentos em:
 - 🛢️ **JPA / Hibernate** — Modelagem, relacionamentos, consultas e mapeamentos  
 - 🐳 **Docker** — Contêineres para desenvolvimento de APIs  
 - 🧩 **Git** — Praticando versionamento e fluxo de trabalho colaborativo.
-- ✨ **JavaFX** — Desenvolvendo interfaces gráficas modernas com Java.
 
 
 ## 🧰 Tech Stack
