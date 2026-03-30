@@ -44,7 +44,7 @@ Atualmente aprofundando meus conhecimentos em:
 <div align="left">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=brunoverly&theme=dracula&locale=pt_BR"
+      src="https://streak-stats.demolab.com?user=brunoverly&theme=dracula&locale=pt_BR&background=00000000&hide_border=false"
       height="150"
       alt="GitHub Streak"
     />
