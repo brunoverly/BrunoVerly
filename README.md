@@ -42,11 +42,13 @@ Atualmente aprofundando meus conhecimentos em:
 
 ## 📊 Estatísticas do GitHub
 <div align="left">
-  <img 
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/BrunoVerly?theme=dracula&cardType=level"
-    height="150"
-    alt="stats graph"
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=brunoverly&theme=dracula&locale=pt_BR"
+      height="150"
+      alt="GitHub Streak"
+    />
+  </a>
   <span style="display:inline-block; width: 14px;"></span>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoVerly&locale=&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=00000000"
