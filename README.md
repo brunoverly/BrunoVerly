@@ -45,15 +45,15 @@ Atualmente aprofundando meus conhecimentos em:
 
 <div align="left">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoVerly&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=BrunoVerly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=false"
     height="150"
-    alt="stats"
+    alt="stats graph"
   />
   <span style="display:inline-block; width: 14px;"></span>
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoVerly&theme=dracula"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=BrunoVerly&theme=dracula&bg_color=00000000&hide_border=false"
     height="150"
-    alt="languages"
+    alt="streak graph"
   />
 </div>
 
