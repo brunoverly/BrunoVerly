@@ -42,13 +42,11 @@ Atualmente aprofundando meus conhecimentos em:
 
 ## 📊 Estatísticas do GitHub
 <div align="left">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=brunoverly&theme=dracula&locale=pt_BR&background=00000000&hide_border=false"
-      height="150"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=brunoverly&theme=dracula&locale=pt_BR&background=00000000&hide_border=false"
+    height="150"
+    alt="GitHub Streak"
+  />
   <span style="display:inline-block; width: 14px;"></span>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoVerly&locale=&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=00000000"
@@ -57,6 +55,7 @@ Atualmente aprofundando meus conhecimentos em:
   />
 </div>
 
+## 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoVerly/BrunoVerly/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoVerly/BrunoVerly/output/pacman-contribution-graph.svg">
