@@ -17,11 +17,16 @@ Sou estudante de **Sistemas da Informação**, focado em construir uma base sól
 ## 🎯 Foco Atual de Estudo
 Atualmente aprofundando meus conhecimentos em:
 
-- ☕ **Java** — Sintaxe, POO, coleções, streams e boas práticas  
-- 🍃 **Spring Boot** — Criação de APIs RESTful, camadas, HATEOAS, validações, serviços e documentação  
-- 🛢️ **JPA / Hibernate** — Modelagem, relacionamentos, consultas e mapeamentos  
-- 🐳 **Docker** — Contêineres para desenvolvimento de APIs  
-- 🧩 **Git** — Praticando versionamento e fluxo de trabalho colaborativo.
+- ☕ **Java** — POO, coleções, streams, boas práticas com Java 17
+- 🍃 **Spring Boot** — APIs RESTful avançadas, HATEOAS, Content Negotiation, versionamento, validações e documentação
+- 🔐 **Spring Security** — Autenticação e autorização com JWT + Refresh Token
+- 🛢️ **JPA / Hibernate** — Modelagem, relacionamentos, consultas e mapeamentos
+- 🧪 **Testes** — JUnit 5, Mockito, Testcontainers e REST Assured
+- 🐳 **Docker** — Contêineres, Docker Compose e clusters para ambientes distribuídos
+- ☁️ **Cloud** — Deploy em nuvem com Azure
+- 🐇 **Mensageria** — Comunicação assíncrona com RabbitMQ, DLQ e resiliência
+- 🏗️ **Arquitetura** — Microserviços, API Gateway e Service Discovery com Spring Cloud
+- 🧩 **Git** — Versionamento e fluxo de trabalho colaborativo
 
 
 ## 🧰 Tech Stack
