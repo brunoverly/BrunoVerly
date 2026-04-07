@@ -52,13 +52,13 @@ Atualmente aprofundando meus conhecimentos em:
     height="150"
     alt="GitHub Streak"
   />
-  <span style="display:inline-block; width: 14px;"></span>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoverly&locale=&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=00000000"
+  <!-- <span style="display:inline-block; width: 14px;"></span>
+ <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoVerly&locale=&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=00000000"
     height="150"
     alt="languages graph"
   />
-</div>
+</div> -->
 
 ## 
 <picture>
