@@ -1,14 +1,11 @@
 # 👋 Olá! Eu sou o Bruno
-
-Bem-vindo(a) ao meu perfil no GitHub!  
-Sou estudante de **Sistemas da Informação**, focado em construir uma base sólida para atuar como **Desenvolvedor Backend** usando Java.
+**Desenvolvedor Backend Java**
 
 
 
 ## 👨‍💻 Sobre Mim
 - 📍 Minas Gerais – **Brasil** 🇧🇷  
 - 🎓 Graduando em **Sistemas da Informação** pela FASEH  
-- 🚀 Buscando minha **primeira oportunidade profissional** na área de TI  
 - 🧠 Sempre aprendendo, construindo projetos e explorando novas tecnologias  
 - 📚 Focado em boas práticas, arquitetura limpa e APIs bem estruturadas  
 
