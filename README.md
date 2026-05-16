@@ -1,5 +1,4 @@
-# 👋 Olá! Eu sou o Bruno
-**Desenvolvedor Web Trainee | PHP | React**
+#Desenvolvedor Web Trainee | PHP | React
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -16,28 +15,24 @@
 
 
 ## 👨‍💻 Sobre Mim
+Sou um Desenvolvedor Web Trainee e estudante de Sistemas da Informação, apaixonado por transformar regras de negócio em software de qualidade. Tenho uma forte base em desenvolvimento backend e atualmente estou focando na construção de aplicações web completas (Fullstack), priorizando arquitetura limpa, performance e boas práticas de engenharia de software.
+
 - 📍 Minas Gerais – **Brasil** 🇧🇷  
-- 🎓 Graduando em **Sistemas da Informação** pela FASEH  
-- 💼 Atualmente iniciando a carreira como **Desenvolvedor Web Trainee** 
-- 🧠 Sempre aprendendo, construindo projetos e explorando novas tecnologias  
-- 📚 Focado em boas práticas, arquitetura limpa e desenvolvimento de interfaces e APIs  
+- 🎓 Graduando em **Sistemas da Informação** 
+- 💼 Atuando no desenvolvimento de sistemas web escaláveis
 
 
+## 🎯 Stack Tecnológica e Foco Atual
+Meu foco diário de trabalho e estudos gira em torno do ecossistema Web moderno:
 
-## 🎯 Foco Atual de Estudo
-Atualmente direcionando meus conhecimentos para a stack de desenvolvimento Web:
-
-- 🐘 **PHP** — Lógica de programação, orientação a objetos e boas práticas
-- 🔴 **Laravel & Symfony** — Criação de APIs RESTful, roteamento, ORM e arquitetura MVC
-- 🌐 **Frontend** — HTML5, CSS3, e JavaScript moderno (ES6+)
-- ⚛️ **React** — Componentização, gerenciamento de estado (Hooks, Redux) e consumo de APIs
-- 🛢️ **Banco de Dados** — Modelagem e consultas com MySQL
-- 🐳 **Docker** — Contêinerização de aplicações web
-- 🧩 **Git** — Versionamento e fluxo de trabalho colaborativo
+- 🐘 **PHP (Laravel / Symfony)** — Criação de APIs robustas, arquitetura de software, integração de serviços e manipulação de dados via ORM.
+- ⚛️ **React & JavaScript** — Construção de interfaces dinâmicas, gerenciamento de estado complexo e integração assíncrona com o backend.
+- ⚙️ **Infra & Dados** — Modelagem de banco de dados relacionais (MySQL) e criação de ambientes isolados utilizando Docker.
+- 🛠️ **Boas Práticas** — Clean Code, controle de versão (Git) e metodologias ágeis.
 
 ---
 
-💡 *Possuo também uma base forte de estudos em **Java / Spring Boot**, o que me ajudou a consolidar conceitos sólidos de Orientação a Objetos, Design Patterns, Arquitetura Limpa e desenvolvimento de APIs.*
+💡 *Possuo também uma base forte de estudos em **Java / Spring Boot**, o que me ajudou a consolidar conceitos sólidos de Orientação a Objetos, Design Patterns, Arquitetura Limpa e desenvolvimento econsumo de APIs.*
 
 ## 
 <picture>
