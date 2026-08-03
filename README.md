@@ -25,9 +25,9 @@ Sou um Desenvolvedor Web Trainee e estudante de Sistemas da Informação, apaixo
 ## 🎯 Stack Tecnológica e Foco Atual
 Meu foco diário de trabalho e estudos gira em torno do ecossistema Web moderno:
 
-- 🐘 **PHP (Laravel / Symfony)** — Criação de APIs robustas, arquitetura de software, integração de serviços e manipulação de dados via ORM.
-- ⚛️ **React & JavaScript** — Construção de interfaces dinâmicas, gerenciamento de estado complexo e integração assíncrona com o backend.
-- ⚙️ **Infra & Dados** — Modelagem de banco de dados relacionais (MySQL) e criação de ambientes isolados utilizando Docker.
+- 🐘 **PHP (Laravel)** — Criação de APIs, arquitetura de software, integração de serviços e manipulação de dados via ORM.
+- ⚛️ **React & JavaScript** — Construção de interfaces dinâmicas, gerenciamento de estado e integração assíncrona com o backend.
+- ⚙️ **Infra & Dados** — Modelagem de banco de dados relacionais (MySQL).
 - 🛠️ **Boas Práticas** — Clean Code, controle de versão (Git) e metodologias ágeis.
 
 ---
